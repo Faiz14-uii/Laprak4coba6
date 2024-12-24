@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+button {
+  width: 100%;
+}
+
+.alert {
+  text-align: center;
+  margin-top: 10px;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.alert {
+  text-align: center;
+  margin-top: 10px;
+}
