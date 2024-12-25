@@ -1,6 +1,9 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f8f9fa;
+  height: auto;
+  min-height: 100%;
+  overflow-x: hidden; /* Mencegah scroll horizontal */
 }
 
 h2 {
